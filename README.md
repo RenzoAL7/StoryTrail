@@ -1,1 +1,1 @@
-# StoryTrail---HCI
+# StoryTrail-HCI
